@@ -1,0 +1,10 @@
+\documentclass[10pt]{article}
+\author{Daniel}
+\title{Git is fun}
+\begin{document}
+	\makettitle
+
+	This is a super awesome scientific paper.
+	I hope I win a prize
+
+\end{document}
